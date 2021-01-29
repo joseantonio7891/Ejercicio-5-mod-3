@@ -1,0 +1,15 @@
+img{
+    align-self:center;
+    width:50%;
+    height:auto;
+}
+
+.row{
+    margin-top: 5vw;
+}
+
+button{
+    align-self:center;
+    color: white;
+    background-color: brown;
+}
